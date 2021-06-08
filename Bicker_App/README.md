@@ -1,4 +1,4 @@
-# shop-fashion
+# BikerApp
 
 ## Setup Project using Docker
 
@@ -8,8 +8,8 @@ https://docs.docker.com/get-docker/
 1. Clone the project from git repository and move into the project directory.
 
 ```sh
-git clone https://github.com/priteshtagline/shop-fashion.git
-cd shop-fashion/
+git clone https://github.com/Abhishek84012/BikerApp.git
+cd BikerApp/
 ```
 
 2. Then run the following command to setup project using docker:
